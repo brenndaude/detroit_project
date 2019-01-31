@@ -1,0 +1,389 @@
+Code,Name,Address,City,State,Zip,Elementary (K-5) Student Count,Middle (6-8) Student Count,High School (9-12) Student Count,ISD Code,ISD Name,District Code,District Name,Entity Type,Entity County,Chartering Agency Code,Chartering Agency Authorizer,Charter Management Organization,Entity Authorized Grades,Entity Actual Grades,elementary,middle,high,location
+4,Henderson Academy,16101 West Chicago St,Detroit,MI,48228,488,238,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3642600000001, -83.2654899999999)"
+5,"Holmes, A.L.  Elementary-Middle School",8950 Crane St,Detroit,MI,48213,329,108,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3948, -83.0144099999999)"
+18,Medicine and Community Health Academy at Cody,18445 Cathedral St,Detroit,MI,48228,0,0,387,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.360748416, -83.221019843)"
+22,Detroit Institute of Technology at Cody,18445 Cathedral St,Detroit,MI,48228,0,0,260,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3606603760001, -83.220862799)"
+26,Cody Academy of Public Leadership,18445 Cathedral St,Detroit,MI,48228,0,0,248,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3607888670001, -83.221769374)"
+29,Davis Aerospace High School,900 Dickerson St,Detroit,MI,48215,0,0,156,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3697100000001, -82.9512999999999)"
+30,Osborn College Preparatory Academy,11600 East 7 Mile Rd,Detroit,MI,48205,0,0,158,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4336300000001, -83.00357)"
+32,Osborn Academy of Mathematics,11600 East 7 Mile Rd,Detroit,MI,48205,0,0,191,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4336300000001, -83.00357)"
+35,Osborn Evergreen Academy of Design and Alternative Energy,11600 East 7 Mile Rd,Detroit,MI,48205,0,0,322,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4336300000001, -83.00357)"
+39,Detroit International Academy for Young Women,9026 Woodward Ave,Detroit,MI,48202,90,72,199,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8,9,10,11,12",1,1,1,"location
+(42.38273, -83.08045)"
+101,Henry Ford Academy: School for Creative Studies (PSAD),485 W Milwaukee St,Detroit,MI,48202,0,362,487,82,Wayne RESA,82703,Henry Ford Academy: School for Creative Studies (PSAD),PSA School,Wayne,5133,Grand Valley State University,"Creative Urban Education, Inc.","6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.3678600000001, -83.0753999999999)"
+103,Ann Arbor Trail Magnet School,7635 Chatham,Detroit,MI,48239,184,98,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3467000000001, -83.2603)"
+133,Lincoln-King Academy,13436 Grove St,Detroit,MI,48235,395,189,0,82,Wayne RESA,82719,Washington-Parks Academy,PSA School,Wayne,5133,Grand Valley State University,Cornerstone Charter Schools,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.41432, -83.1778399999999)"
+168,Bagley Elementary School,8100 Curtis St,Detroit,MI,48221,286,39,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.42479, -83.15219)"
+173,Cesar Chavez Academy Intermediate,4100 Martin St,Detroit,MI,48210,437,0,0,82,Wayne RESA,82918,Cesar Chavez Academy,PSA School,Wayne,4884,Saginaw Valley State University,Leona Group,"3,4,5","3,4,5",1,0,0,"location
+(42.32906, -83.12521)"
+176,Golightly Education Center,5536 Saint Antoine St,Detroit,MI,48202,273,90,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3648900000001, -83.05897)"
+238,"Clemente, Roberto Academy",1551 Beard St,Detroit,MI,48209,658,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3093900000001, -83.11614)"
+277,Bennett Elementary School,2111 Mullane St,Detroit,MI,48209,497,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.30922, -83.12963)"
+334,Detroit Leadership Academy Elementary,13550 Virgil,Detroit,MI,48223,300,0,0,82,Wayne RESA,82722,Detroit Leadership Academy,PSA School,Wayne,5017,Central Michigan University,Equity Education,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.38442, -83.27064)"
+367,Legacy Charter Academy,4900 E. Hildale Street,Detroit,MI,48234,518,239,0,82,Wayne RESA,82723,Legacy Charter Academy,PSA School,Wayne,5133,Grand Valley State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4291000000001, -83.05441)"
+378,University Yes Academy,14717 Curtis Street,Detroit,MI,48235,337,272,0,82,Wayne RESA,82724,University Yes Academy,PSA School,Wayne,7838,Bay Mills Community College,New Paradigm For Education,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8,9,10,11,12",1,1,0,"location
+(42.4226200000001, -83.1917)"
+446,Bunche Elementary-Middle School,2715 Macomb Street,Detroit,MI,48207,351,166,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3443, -83.0237999999999)"
+456,Burns Elementary-Middle School,14350 Terry St,Detroit,MI,48227,259,107,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"DevK,KG,1,2,3,4,5,6,7,8","DevK,KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3936, -83.19107)"
+468,Burton International School,2001 Martin Luther King Jr. Blvd,Detroit,MI,48208,403,177,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3394200000001, -83.07837)"
+506,University Preparatory Science and Math (PSAD) High School,2664 Franklin Street,Detroit,MI,48207,0,0,469,82,Wayne RESA,82701,University Preparatory Science and Math (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.33707, -83.02036)"
+542,Carstens Elementary-Middle School,13000 Essex Avenue,Detroit,MI,48215,213,104,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.36409, -82.94834)"
+546,Carver Elementary-Middle School,18701 Paul St,Detroit,MI,48228,218,83,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3356600000001, -83.22338)"
+554,Cass Technical High School,2501 2Nd Ave,Detroit,MI,48201,0,0,2447,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3388400000001, -83.06038)"
+617,Central High School,2425 Tuxedo Street,Detroit,MI,48206,0,0,353,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.38381, -83.11207)"
+689,Chrysler Elementary School,1445 East Lafayette St,Detroit,MI,48207,163,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.33847, -83.03381)"
+758,Jalen Rose Leadership Academy,15000 Trojan Street,Detroit,MI,48235,0,0,418,82,Wayne RESA,82728,Jalen Rose Leadership Academy,PSA School,Wayne,5017,Central Michigan University,American Promise Schools,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.44194, -83.19483)"
+762,Regent Park Scholars Charter Academy,15865 East Seven Mile Road,Detroit,MI,48205,517,177,0,82,Wayne RESA,82727,Regent Park Scholars Charter Academy,PSA School,Wayne,5218,Lake Superior State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4360800000001, -82.95751)"
+781,Cooke Elementary School,18800 Puritan St,Detroit,MI,48223,270,24,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.4087500000001, -83.2257099999999)"
+853,Mackenzie Elementary-Middle School,10147 W Chicago,Detroit,MI,48204,746,370,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3654000000001, -83.15986)"
+857,"Marshall, Thurgood Elementary School",15531 Linwood St,Detroit,MI,48238,416,162,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.40601, -83.12819)"
+858,Munger Elementary-Middle School,5525 Martin,Detroit,MI,48216,662,293,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3372800000001, -83.13257)"
+860,Earhart Elementary-Middle School,1000 Scotten Street,Detroit,MI,48209,398,339,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3160600000001, -83.0895399999999)"
+865,Benjamin Carson School for Science and Medicine,571 Mack Avenue,Detroit,MI,48201,0,0,400,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3509300000001, -83.05207)"
+880,Davison Elementary-Middle School,2800 East Davison St,Detroit,MI,48212,449,267,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.412112592, -83.069210262)"
+902,Denby High School,12800 Kelly Road,Detroit,MI,48224,0,0,502,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.42666, -82.9568599999999)"
+923,Bridge Academy West,3105 Carpenter Road,Detroit,MI,48212,0,295,0,82,Wayne RESA,82983,Bridge Academy,PSA School,Wayne,1224,Ferris State University,Global Educational Excellence,"6,7,8","6,7,8",0,1,0,"location
+(42.40745, -83.06177)"
+925,Dixon Elementary School,8401 Trinity Street,Detroit,MI,48228,276,173,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.35443, -83.24791)"
+939,Dossin Elementary-Middle School,16650 Glendale St,Detroit,MI,48227,227,98,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3827200000001, -83.21063)"
+975,Durfee Elementary-Middle School,2470 Collingwood St,Detroit,MI,48206,320,194,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.38167, -83.1117199999999)"
+1043,King High School,3200 East Lafayette St,Detroit,MI,48207,0,0,1424,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3438, -83.01631)"
+1084,Edison Elementary School,17045 Grand River Ave,Detroit,MI,48227,284,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.3974900000001, -83.21372)"
+1087,GEE Edmonson Academy,1300 West Canfield St,Detroit,MI,48201,183,79,0,82,Wayne RESA,82731,GEE Edmonson Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Global Educational Excellence,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3491100000001, -83.07451)"
+1134,Emerson Elementary-Middle School,18240 Huntington Rd,Detroit,MI,48219,388,166,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4230000000001, -83.23328)"
+1170,Detroit Innovation Academy,18211 Plymouth Rd,Detroit,MI,48228,277,84,0,82,Wayne RESA,82739,Detroit Innovation Academy,PSA School,Wayne,5017,Central Michigan University,Equity Education,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3704200000001, -83.2180499999999)"
+1189,East English Village Preparatory Academy,5020 Cadieux,Detroit,MI,48224,0,0,1432,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.40786, -82.92894)"
+1214,Cornerstone Health and Technology School,17351 Southfield Road,Detroit,MI,48235,0,0,461,82,Wayne RESA,82741,Cornerstone Health and Technology School,PSA School,Wayne,5133,Grand Valley State University,Cornerstone Charter Schools,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4179836820001, -83.219454339)"
+1240,Henry Ford Academy: School for Creative Studies - Elementary,10225 3Rd St,Detroit,MI,48202,390,0,0,82,Wayne RESA,82703,Henry Ford Academy: School for Creative Studies (PSAD),PSA School,Wayne,5133,Grand Valley State University,"Creative Urban Education, Inc.","KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3865900000001, -83.09241)"
+1241,W-A-Y Academy - Chicago Site,19321 W Chicago St,Detroit,MI,48228,0,17,124,82,Wayne RESA,82746,W-A-Y Academy,PSA School,Wayne,5218,Lake Superior State University,W-A-Y (Widening Advancements for Youth),"7,8,9,10,11,12","7,8,9,10,11,12",0,1,1,"location
+(42.3642600000001, -83.2654899999999)"
+1309,Madison-Carver Academy,19900 Mcintyre St,Detroit,MI,48219,441,138,0,82,Wayne RESA,82742,Madison-Carver Academy,PSA School,Wayne,5133,Grand Valley State University,Cornerstone Charter Schools,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.43692, -83.26284)"
+1362,Gardner Elementary School,6528 Mansfield St,Detroit,MI,48228,259,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.33944, -83.20178)"
+1369,Escuela Avancemos,3811 Cicotte Street,Detroit,MI,48210,302,0,0,82,Wayne RESA,82744,Escuela Avancemos,PSA School,Wayne,82015,Detroit Public Schools Community District,"Sanga Consulting, Inc.","KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3281200000001, -83.1221399999999)"
+1390,W-A-Y Academy - Vernor Site,8701 West Vernor Highway,Detroit,MI,48209,0,45,191,82,Wayne RESA,82746,W-A-Y Academy,PSA School,Wayne,5218,Lake Superior State University,W-A-Y (Widening Advancements for Youth),"7,8,9,10,11,12","7,8,9,10,11,12",0,1,1,"location
+(42.30897, -83.13265)"
+1438,Gompers Elementary-Middle School,14450 Burt Road,Detroit,MI,48223,524,269,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3924500000001, -83.2461499999999)"
+1488,Capstone Academy Charter School (SDA) - South Campus,3500 John R Street,Detroit,MI,48201,0,11,84,82,Wayne RESA,82752,Capstone Academy Charter School (SDA),PSA School,Wayne,82015,Detroit Public Schools Community District,"edtec central, LLC","4,5,6,7,8,9,10,11,12","4,5,6,7,8,9,10,11,12",0,1,1,"location
+(42.34741, -83.0552299999999)"
+1493,Greenfield Union Elementary-Middle School,420 West 7 Mile Rd,Detroit,MI,48203,207,96,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.43262, -83.10776)"
+1518,Mary McLeod Bethune Elementary-Middle School,8145 Puritan Street,Detroit,MI,48227,393,165,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"DevK,KG,1,2,3,4,5,6,7,8","DevK,KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4091000000001, -83.15172)"
+1552,Palmer Park Preparatory Academy,3901 Margareta St,Detroit,MI,48221,195,197,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.42726, -83.1388499999999)"
+1567,University Preparatory Science and Math - Elementary,2251 Antietam Ave,Detroit,MI,48207,513,0,0,82,Wayne RESA,82701,University Preparatory Science and Math (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3480500000001, -83.03043)"
+1574,Harms Elementary School,2400 Central St,Detroit,MI,48209,415,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.31435, -83.12465)"
+1620,Hazel Park Ser Metro Learning Academy,9215 Michigan Ave,Detroit,MI,48210,0,0,40,63,Oakland Schools,63130,"Hazel Park, School District of the City of",LEA School,Oakland,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.32843, -83.15325)"
+1634,Ford High School,20000 Evergreen Road,Detroit,MI,48219,0,0,390,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.43852, -83.23803)"
+1803,Hutchinson Elementary-Middle School,2600 Garland,Detroit,MI,48214,254,107,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3695900000001, -82.98293)"
+1851,Southwest Detroit Community School,4001 29Th St,Detroit,MI,48210,328,122,0,82,Wayne RESA,82755,Southwest Detroit Community School,PSA School,Wayne,5133,Grand Valley State University,EAS Schools,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.33464, -83.10939)"
+1968,Detroit Achievement Academy,7000 Outer Drive,Detroit,MI,48235,115,0,0,82,Wayne RESA,82700,Detroit Achievement Academy,PSA School,Wayne,5133,Grand Valley State University,Self-managed,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4",1,0,0,"location
+(42.4200300000001, -83.20043)"
+2015,Detroit Public Safety Academy,1250 Rosa Parks Blvd,Detroit,MI,48216,0,75,261,82,Wayne RESA,82704,Detroit Public Safety Academy,PSA School,Wayne,1047,Eastern Michigan University,Leona Group,"6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.3250400000001, -83.06767)"
+2027,Cesar Chavez Academy Elementary East,4130 Maxwell St,Detroit,MI,48214,121,10,0,82,Wayne RESA,82918,Cesar Chavez Academy,PSA School,Wayne,4884,Saginaw Valley State University,Leona Group,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.3707200000001, -83.00588)"
+2036,"King, John R. Academic and Performing Arts Academy",15850 Strathmoor St,Detroit,MI,48227,423,367,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.40819, -83.18679)"
+2058,Blackwell Institute,9330 Shoemaker St,Detroit,MI,48213,235,77,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.38944, -83.0055399999999)"
+2073,The James and Grace Lee Boggs School,4141 Mitchell St,Detroit,MI,48207,88,24,0,82,Wayne RESA,82706,The James and Grace Lee Boggs School,PSA School,Wayne,1047,Eastern Michigan University,Nataki Educational Services,"KG,1,2,3,4,5,6,7","KG,1,2,3,4,5,6,7",1,1,0,"location
+(42.36107, -83.0331399999999)"
+2222,Detroit Leadership Academy Middle/High,5845 Auburn St,Detroit,MI,48228,0,111,237,82,Wayne RESA,82722,Detroit Leadership Academy,PSA School,Wayne,5017,Central Michigan University,Equity Education,"6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.3312000000001, -83.23245)"
+2301,MacDowell Preparatory Academy,4201 West Outer Dr,Detroit,MI,48221,201,124,0,82,Wayne RESA,82747,MacDowell Preparatory Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,American Promise Schools,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4342800000001, -83.16597)"
+2302,WAY Michigan,407 E Fort St,Detroit,MI,48226,0,12,109,82,Wayne RESA,82710,WAY Michigan,PSA School,Wayne,5017,Central Michigan University,W-A-Y (Widening Advancements for Youth),"6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.33302, -83.0425299999999)"
+2327,Pathways Global Leadership Academy,556 Custer St,Detroit,MI,48202,0,0,0,82,Wayne RESA,82712,Pathways Global Leadership Academy,PSA School,Wayne,5133,Grand Valley State University,Pathways Global Institutes,"KG,1,2,3,4,5,6,7,8,9,10,11,12","9,10,11,12",0,0,1,"location
+(42.37438, -83.0674099999999)"
+2329,New Paradigm College Prep,2450 S Beatrice St,Detroit,MI,48217,85,0,0,82,Wayne RESA,82713,New Paradigm College Prep,PSA School,Wayne,5133,Grand Valley State University,New Paradigm For Education,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5",1,0,0,"location
+(42.26946, -83.15372)"
+2341,Mann Elementary School,19625 Elmira St,Detroit,MI,48228,344,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3687200000001, -83.2341499999999)"
+2377,Law Elementary School,19411 Cliff St,Detroit,MI,48234,366,126,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"DevK,KG,1,2,3,4,5,6,7,8","DevK,KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4374700000001, -83.02887)"
+2383,Mark Twain Elementary-Middle School,12800 Visger St,Detroit,MI,48217,185,58,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.26948, -83.1622199999999)"
+2390,Marquette Elementary-Middle School,6145 Canyon St,Detroit,MI,48236,324,197,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4197, -82.9226399999999)"
+2393,Detroit Delta Preparatory Academy for Social Justice,3550 John C Lodge Fwy,Detroit,MI,48201,0,0,344,82,Wayne RESA,82714,Detroit Delta Preparatory Academy for Social Justice,PSA School,Wayne,1224,Ferris State University,Equity Education,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.34416, -83.06711)"
+2396,Pathways Academy,11340 E Jefferson Ave,Detroit,MI,48214,0,9,151,82,Wayne RESA,82737,Pathways Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Innovative Educational Services,"7,8,9,10,11,12","7,8,9,10,11,12",0,1,1,"location
+(42.3666700000001, -82.97048)"
+2431,Mason Elementary School,19955 Fenelon St,Detroit,MI,48234,248,130,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4423, -83.05488)"
+2448,Maybury Elementary School,4410 Porter St,Detroit,MI,48209,333,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.3166200000001, -83.09374)"
+2553,A. Philip Randolph Technical High School,17101 Hubbell St,Detroit,MI,48235,0,0,104,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11","9,10,11",0,0,1,"location
+(42.41752, -83.1913699999999)"
+2644,Mumford High School,17525 Wyoming St,Detroit,MI,48221,0,0,814,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.421220126, -83.1642108199999)"
+2648,Murphy Academy,23901 Fenkell St,Detroit,MI,48223,153,81,0,82,Wayne RESA,82751,Michigan Educational Choice Center,PSA School,Wayne,82015,Detroit Public Schools Community District,Phalen Leadership Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3989800000001, -83.27457)"
+2669,Neinas Dual Language Learning Academy,6021 Mcmillan St,Detroit,MI,48209,235,54,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7","KG,1,2,3,4,5,6,7",1,1,0,"location
+(42.3171600000001, -83.1070999999999)"
+2701,Rutherford Winans Academy,16411 Curtis St,Detroit,MI,48235,241,0,0,82,Wayne RESA,82748,Rutherford Winans Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Solid Rock Management Company,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.4224300000001, -83.2097899999999)"
+2703,Nichols Elementary-Middle School,3000 Burns St,Detroit,MI,48214,152,104,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3670700000001, -82.99828)"
+2708,Nolan Elementary-Middle School,1150 East Lantz St,Detroit,MI,48203,231,81,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"DevK,KG,1,2,3,4,5,6,7,8","DevK,KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.43629, -83.09163)"
+2736,Detroit Edison Public School Academy - High School,3402 St. Aubin,Detroit,MI,48207,0,0,395,82,Wayne RESA,82945,Detroit Edison Public School Academy,PSA School,Wayne,5318,Oakland University,New Paradigm For Education,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.35288, -83.0363)"
+2778,Detroit Collegiate Preparatory High School @ Northwestern,2200 W Grand Blvd,Detroit,MI,48208,0,0,577,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.35814, -83.1029599999999)"
+2782,Cornerstone Jefferson-Douglass Academy,6861 E. Nevada,Detroit,MI,48234,0,0,0,82,Wayne RESA,82760,Cornerstone Jefferson-Douglass Academy,PSA School,Wayne,5133,Grand Valley State University,New Common School Foundation,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4",1,0,0,"location
+(42.4279000000001, -83.03016)"
+2882,Bates Academy,19701 Wyoming St,Detroit,MI,48221,421,253,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.438078009, -83.163310757)"
+2969,Pasteur Elementary School,19811 Stoepel St,Detroit,MI,48221,348,40,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.43812, -83.1433)"
+3015,Pershing High School,18875 Ryan Road,Detroit,MI,48234,0,0,314,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.43217, -83.06427)"
+3123,Priest Elementary-Middle School,7840 Wagner St,Detroit,MI,48210,515,235,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.33741, -83.14439)"
+3130,Pulaski Elementary-Middle School,19725 Strasburg St,Detroit,MI,48205,338,135,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.44131, -82.9994599999999)"
+3420,Schulze Elementary-Middle School,10700 Santa Maria St,Detroit,MI,48221,400,62,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.41977, -83.16817)"
+3540,Southeastern High School,3030 Fairview Street,Detroit,MI,48214,0,0,251,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3751, -82.97786)"
+3558,Spain Elementary-Middle School,3700 Beaubien St,Detroit,MI,48201,233,104,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3507200000001, -83.0519199999999)"
+3703,Ludington Magnet Middle School,19051 Berg Rd,Detroit,MI,48219,69,300,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"5,6,7,8","5,6,7,8",1,1,0,"location
+(42.4319376510001, -83.2686810709999)"
+3717,"Young, Coleman A. Elementary",15771 Hubbell St,Detroit,MI,48227,375,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.4063800000001, -83.18972)"
+3725,New Paradigm Loving Academy,1000 Lynn St,Detroit,MI,48211,109,46,0,82,Wayne RESA,82735,New Paradigm Glazer-Loving Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,New Paradigm For Education,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3911900000001, -83.07544)"
+3737,Edward Duke Ellington @ Beckham,9860 Park Dr,Detroit,MI,48213,408,154,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4083600000001, -82.97849)"
+4062,"Brown, Ronald Academy",11530 East Outer Dr,Detroit,MI,48224,587,144,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7","KG,1,2,3,4,5,6,7",1,1,0,"location
+(42.4044700000001, -82.94778)"
+4156,Thirkell Elementary School,7724 14Th St,Detroit,MI,48206,448,143,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3667, -83.09647)"
+4222,Trix Academy,13700 Bringard Dr,Detroit,MI,48205,286,101,0,82,Wayne RESA,82751,Michigan Educational Choice Center,PSA School,Wayne,82015,Detroit Public Schools Community District,Phalen Leadership Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4453300000001, -82.98373)"
+4292,Vernor Elementary School,13726 Pembroke Ave,Detroit,MI,48235,194,26,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6","KG,1,2,3,4,5,6",1,1,0,"location
+(42.4389229810001, -83.1825899999999)"
+4319,Bow Elementary-Middle School,19801 Prevost St,Detroit,MI,48235,308,148,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4368700000001, -83.20489)"
+4406,Wayne Elementary School,10633 Courville St,Detroit,MI,48224,272,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.41571, -82.9563199999999)"
+4413,Sampson Academy,4700 Tireman St,Detroit,MI,48204,227,112,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.35398, -83.1185399999999)"
+4477,Western International High School,1500 Scotten St,Detroit,MI,48209,0,0,1878,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3186000000001, -83.09127)"
+4500,GEE White Academy,5161 Charles St,Detroit,MI,48212,317,130,0,82,Wayne RESA,82732,GEE White Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Global Educational Excellence,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4123200000001, -83.0496199999999)"
+5553,Carleton Elementary School,11724 Casino St,Detroit,MI,48224,295,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5","KG,1,2,3,4,5",1,0,0,"location
+(42.4271800000001, -82.94569)"
+5675,New Paradigm Glazer Academy,2001 La Belle St,Detroit,MI,48238,151,33,0,82,Wayne RESA,82735,New Paradigm Glazer-Loving Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,New Paradigm For Education,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3995800000001, -83.11666)"
+6074,Stewart Academy,13120 Wildemere St,Detroit,MI,48238,227,75,0,82,Wayne RESA,82751,Michigan Educational Choice Center,PSA School,Wayne,82015,Detroit Public Schools Community District,Phalen Leadership Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3895600000001, -83.12546)"
+6103,Noble Elementary-Middle School,8646 Fullerton St,Detroit,MI,48238,374,141,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3814400000001, -83.1558199999999)"
+6971,Renaissance High School,6565 West Outer Dr,Detroit,MI,48235,0,0,1134,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4181600000001, -83.19488)"
+7135,Douglass Academy for Young Men,2001 West Warren Ave,Detroit,MI,48208,0,40,124,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.3491700000001, -83.08325)"
+7326,Foreign Language Immersion and Cultural Studies,6501 West Outer Dr,Detroit,MI,48235,499,186,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.41923, -83.19095)"
+7425,"Martin Luther King, Jr. Education Center Academy",16827 Appoline St,Detroit,MI,48235,320,97,0,82,Wayne RESA,82910,"Martin Luther King, Jr. Education Center Academy",PSA School,Wayne,82015,Detroit Public Schools Community District,Self-managed,"KG,KG-Part,1,2,3,4,5,6,7,8","KG,KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4145600000001, -83.17135)"
+7500,Clippert Academy,1981 Mckinstry St,Detroit,MI,48209,29,480,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"5,6,7,8","5,6,7,8",1,1,0,"location
+(42.3205300000001, -83.09815)"
+7581,Garvey Academy,2301 Van Dyke St,Detroit,MI,48214,226,122,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3593000000001, -83.00165)"
+7633,"Robeson Academy, Malcolm X Academy",2585 Grove Street,Detroit,MI,48221,193,133,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4137900000001, -83.12731)"
+7654,Communication and Media Arts HS,14771 Mansfield St,Detroit,MI,48227,0,0,557,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3983200000001, -83.2058)"
+7793,Academy of The Americas,5680 Konkel St,Detroit,MI,48210,547,299,78,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8,9,10,11","KG,1,2,3,4,5,6,7,8,9,10,11",1,1,0,"location
+(42.3270600000001, -83.11072)"
+7794,Detroit School of Arts,123 Selden St,Detroit,MI,48201,0,0,392,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.34858, -83.06101)"
+8255,Plymouth Educational Center,1460 East Forest Ave,Detroit,MI,48207,321,170,0,82,Wayne RESA,82904,Plymouth Educational Center Charter School,PSA School,Wayne,5017,Central Michigan University,"Midwest Management Group, Inc.","KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3602700000001, -83.04666)"
+8347,Cesar Chavez Academy Elementary,8126 West Vernor Hwy,Detroit,MI,48209,462,0,0,82,Wayne RESA,82918,Cesar Chavez Academy,PSA School,Wayne,4884,Saginaw Valley State University,Leona Group,"KG,1,2","KG,1,2",1,0,0,"location
+(42.31104, -83.12936)"
+8456,Detroit Community Schools - High School,12675 Burt Rd,Detroit,MI,48223,0,0,362,82,Wayne RESA,82925,Detroit Community Schools,PSA School,Wayne,7838,Bay Mills Community College,Self-managed,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3804000000001, -83.24745)"
+8489,Detroit Academy of Arts and Sciences,2985 East Jefferson Ave,Detroit,MI,48207,690,0,0,82,Wayne RESA,82929,Detroit Academy of Arts and Sciences,PSA School,Wayne,5318,Oakland University,Self-managed,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.3405300000001, -83.0184)"
+8501,Dove Academy of Detroit,20001 Wexford,Detroit,MI,48234,337,111,0,82,Wayne RESA,82930,Dove Academy of Detroit,PSA School,Wayne,5318,Oakland University,Choice Schools Associates,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4415900000001, -83.06645)"
+8569,Cesar Chavez Middle School,6782 Goldsmith St,Detroit,MI,48209,0,595,0,82,Wayne RESA,82918,Cesar Chavez Academy,PSA School,Wayne,4884,Saginaw Valley State University,Leona Group,"6,7,8","6,7,8",0,1,0,"location
+(42.3115000000001, -83.1154799999999)"
+8572,Timbuktu Academy,10800 East Canfield St,Detroit,MI,48214,265,105,0,82,Wayne RESA,82933,Timbuktu Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Magnum Educational Services,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3806500000001, -82.98569)"
+8631,Voyageur Academy,4321 Military St,Detroit,MI,48210,465,286,0,82,Wayne RESA,82940,Voyageur Academy,PSA School,Wayne,1224,Ferris State University,American Promise Schools,"KG,KG-Part,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.33232, -83.12022)"
+8635,George Crockett Academy,4851 14Th St,Detroit,MI,48208,318,123,0,82,Wayne RESA,82937,George Crockett Academy,PSA School,Wayne,2759,Northern Michigan University,Leona Group,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3490800000001, -83.08701)"
+8637,Hope Academy,12121 Broadstreet Ave,Detroit,MI,48204,344,158,0,82,Wayne RESA,82942,Hope Academy,PSA School,Wayne,1047,Eastern Michigan University,BDFI Educational Services,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3794, -83.1353099999999)"
+8641,Weston Preparatory Academy,22930 Chippewa St,Detroit,MI,48219,206,125,0,82,Wayne RESA,82943,Weston Preparatory Academy,PSA School,Wayne,5318,Oakland University,CS Partners,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4390500000001, -83.27017)"
+8651,Detroit Edison Public School Academy,1903 Wilkins St,Detroit,MI,48207,637,324,0,82,Wayne RESA,82945,Detroit Edison Public School Academy,PSA School,Wayne,5318,Oakland University,New Paradigm For Education,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3516900000001, -83.0376199999999)"
+8670,David Ellis Academy,18977 Schaefer Hwy,Detroit,MI,48235,252,93,0,82,Wayne RESA,82947,David Ellis Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,Bardwell Group,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4302000000001, -83.18078)"
+8671,Universal Academy,4833 Ogden,Detroit,MI,48210,341,171,204,82,Wayne RESA,82950,Universal Academy,PSA School,Wayne,5318,Oakland University,"Hamadeh Educational Services, Inc.","KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8,9,10,11,12",1,1,1,"location
+(42.32804, -83.14546)"
+8704,Detroit Service Learning Academy Campus,21605 West 7 Mile Rd,Detroit,MI,48219,651,312,0,82,Wayne RESA,82953,Detroit Service Learning Academy,PSA School,Wayne,5218,Lake Superior State University,Self-managed,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.42837, -83.25652)"
+8722,Hope of Detroit Academy - Elementary,4443 North Campbell St,Detroit,MI,48210,454,0,0,82,Wayne RESA,82957,Hope of Detroit Academy,PSA School,Wayne,1224,Ferris State University,Leona Group,"KG,1,2,3,4,5,6,7,8,9,10","KG,1,2,3,4",1,0,0,"location
+(42.3347800000001, -83.1169)"
+8723,Old Redford Academy - Elem/Middle,17195 Redford St,Detroit,MI,48219,841,0,0,82,Wayne RESA,82956,Old Redford Academy,PSA School,Wayne,5017,Central Michigan University,Innovative Teaching Solutions,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,0,0,"location
+(42.4154598000001, -83.259731597)"
+8743,Oakland International Academy - K-1,6111 Miller St,Detroit,MI,48211,117,0,0,82,Wayne RESA,63912,Oakland International Academy,PSA School,Wayne,4884,Saginaw Valley State University,Education Management & Networks (EMAN),"KG,1","KG,1",1,0,0,"location
+(42.3908200000001, -83.03971)"
+8925,Eastside Detroit Lions Academy,10101 East Canfield St,Detroit,MI,48214,0,97,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"6,7,8","6,7,8",0,1,0,"location
+(42.3789, -82.99362)"
+8929,Detroit City West Side Academy for Leadership Development,4701 Mckinley,Detroit,MI,48208,0,0,484,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.34263, -83.10322)"
+8934,Warrendale Charter Academy,19400 Sawyer St,Detroit,MI,48228,505,209,0,82,Wayne RESA,82970,Warrendale Charter Academy,PSA School,Wayne,5133,Grand Valley State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.347662799, -83.2303557229999)"
+8945,Detroit Academy of Arts and Sciences Middle School,2985 E Jefferson Ave,Detroit,MI,48207,0,397,0,82,Wayne RESA,82929,Detroit Academy of Arts and Sciences,PSA School,Wayne,5318,Oakland University,Self-managed,"6,7,8","6,7,8",0,1,0,"location
+(42.3405300000001, -83.0184)"
+8951,"Field, Moses",1100 Sheridan St,Detroit,MI,48214,50,47,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3526400000001, -83.00154)"
+9102,Detroit Merit Charter Academy,1091 Alter Rd,Detroit,MI,48215,529,228,0,82,Wayne RESA,82974,Detroit Merit Charter Academy,PSA School,Wayne,5133,Grand Valley State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3759600000001, -82.9408799999999)"
+9121,Fisher Magnet Lower Academy,15510 East State Fair St,Detroit,MI,48205,549,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4","KG,1,2,3,4",1,0,0,"location
+(42.4421300000001, -82.96189)"
+9125,"Wright, Charles School",19299 Berg Rd,Detroit,MI,48219,404,0,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4","KG,1,2,3,4",1,0,0,"location
+(42.43233, -83.26872)"
+9153,Cesar Chavez High School,1761 Waterman St,Detroit,MI,48209,0,0,729,82,Wayne RESA,82918,Cesar Chavez Academy,PSA School,Wayne,4884,Saginaw Valley State University,Leona Group,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.31217, -83.11409)"
+9154,Voyageur College Prep,4366 Military St,Detroit,MI,48210,0,0,444,82,Wayne RESA,82940,Voyageur Academy,PSA School,Wayne,1224,Ferris State University,American Promise Schools,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3329000000001, -83.11958)"
+9314,Oakland International Academy - Elementary,4001 Miller St,Detroit,MI,48211,168,0,0,82,Wayne RESA,63912,Oakland International Academy,PSA School,Wayne,4884,Saginaw Valley State University,Education Management & Networks (EMAN),"2,3,4","2,3,4",1,0,0,"location
+(42.3906000000001, -83.04106)"
+9318,Joy Preparatory Academy,15055 Dexter Ave,Detroit,MI,48238,261,88,0,82,Wayne RESA,82958,Joy Preparatory Academy,PSA School,Wayne,1224,Ferris State University,Leona Group,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.4014300000001, -83.13611)"
+9341,Brenda Scott Academy for Theatre Arts,18440 Hoover St,Detroit,MI,48205,492,245,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"DevK,KG,1,2,3,4,5,6,7,8","DevK,KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.42956, -83.00335)"
+9345,Fisher Magnet Upper Academy,15491 Maddelein St,Detroit,MI,48205,89,334,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"5,6,7,8","5,6,7,8",1,1,0,"location
+(42.43717, -82.9618399999999)"
+9462,Detroit Enterprise Academy,11224 Kercheval St,Detroit,MI,48214,445,178,0,82,Wayne RESA,82979,Detroit Enterprise Academy,PSA School,Wayne,5133,Grand Valley State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3685400000001, -82.97284)"
+9475,Diann Banks-Williamson Educational Center,5020 Cadieux Rd,Detroit,MI,48224,0,0,63,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.40786, -82.92894)"
+9481,Old Redford Academy - High,8001 West Outer Dr,Detroit,MI,48235,0,0,846,82,Wayne RESA,82956,Old Redford Academy,PSA School,Wayne,5017,Central Michigan University,Innovative Teaching Solutions,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.418394371, -83.217526418)"
+9592,Jerry L White Center High School,14804 West Mcnichols Rd,Detroit,MI,48235,0,0,212,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.4175654220001, -83.1947925859999)"
+9594,Keidan Special Education School,4441 Collingwood St,Detroit,MI,48204,77,55,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3740700000001, -83.12837)"
+9600,Detroit Premier Academy,7781 Asbury Park,Detroit,MI,48228,513,227,0,82,Wayne RESA,82985,Detroit Premier Academy,PSA School,Wayne,5133,Grand Valley State University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.34961, -83.20645)"
+9609,Frontier International Academy,13322 Conant St,Detroit,MI,48212,0,0,511,82,Wayne RESA,82987,Frontier International Academy,PSA School,Wayne,7838,Bay Mills Community College,Global Educational Excellence,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.412315918, -83.057952593)"
+9619,Detroit Community Schools - Elementary,12675 Burt Rd,Detroit,MI,48223,252,146,0,82,Wayne RESA,82925,Detroit Community Schools,PSA School,Wayne,7838,Bay Mills Community College,Self-managed,"KG-Part,1,2,3,4,5,6,7,8","KG-Part,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3804000000001, -83.24745)"
+9621,Covenant House Academy Detroit - East Site,7600 Goethe St,Detroit,MI,48214,0,0,194,82,Wayne RESA,82991,Covenant House Academy Detroit,PSA School,Wayne,5133,Grand Valley State University,Youth Vision Solutions,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3634200000001, -83.00762)"
+9624,Covenant House Academy Detroit - Southwest Site,1450 25Th St,Detroit,MI,48216,0,0,149,82,Wayne RESA,82991,Covenant House Academy Detroit,PSA School,Wayne,5133,Grand Valley State University,Youth Vision Solutions,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3204900000001, -83.08532)"
+9649,Covenant House Academy Detroit - Central Site,2959 Martin Luther King Jr Blvd,Detroit,MI,48208,0,0,193,82,Wayne RESA,82991,Covenant House Academy Detroit,PSA School,Wayne,5133,Grand Valley State University,Youth Vision Solutions,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3359800000001, -83.0886599999999)"
+9705,Marvin L. Winans Academy - Elementary,9740 Mckinney St,Detroit,MI,48224,450,0,0,82,Wayne RESA,82924,Marvin L. Winans Academy of Performing Arts,PSA School,Wayne,4884,Saginaw Valley State University,Solid Rock Management Company,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.41339, -82.94702)"
+9785,Flagship Charter Academy,13661 Wisconsin Street,Detroit,MI,48238,473,223,0,82,Wayne RESA,82997,Flagship Charter Academy,PSA School,Wayne,5017,Central Michigan University,National Heritage Academies,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.38809, -83.15655)"
+9788,Turning Point Academy,12300 Linnhurst St,Detroit,MI,48205,9,35,31,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8,9,10,11,12","KG,1,2,3,4,5,6,7,8,9,10,11,12",1,1,1,"location
+(42.4304300000001, -82.9989899999999)"
+9830,Oakland International Academy - Middle,8228 Conant St,Detroit,MI,48211,60,147,0,82,Wayne RESA,63912,Oakland International Academy,PSA School,Wayne,4884,Saginaw Valley State University,Education Management & Networks (EMAN),"5,6,7,8","5,6,7,8",1,1,0,"location
+(42.38996, -83.04301)"
+9887,University Preparatory Academy (PSAD) - Elementary,957 Holden St,Detroit,MI,48202,355,0,0,82,Wayne RESA,82702,University Preparatory Academy (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.3617, -83.07705)"
+9888,University Preparatory Academy (PSAD) - Middle,5310 Saint Antoine St,Detroit,MI,48202,0,412,0,82,Wayne RESA,82702,University Preparatory Academy (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"6,7,8","6,7,8",0,1,0,"location
+(42.36242, -83.0579)"
+9889,University Preparatory Academy (PSAD) - High School,600 Antoinette St,Detroit,MI,48202,0,0,583,82,Wayne RESA,82702,University Preparatory Academy (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"9,10,11,12","9,10,11,12",0,0,1,"location
+(42.3626, -83.07361)"
+9907,University Preparatory Science and Math (PSAD) Middle School,5100 John R St,Detroit,MI,48202,0,456,0,82,Wayne RESA,82701,University Preparatory Science and Math (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"6,7,8","6,7,8",0,1,0,"location
+(42.3591700000001, -83.06235)"
+9908,University Preparatory Academy (PSAD) - Elementary,435 Amsterdam St,Detroit,MI,48202,465,0,0,82,Wayne RESA,82702,University Preparatory Academy (PSAD),PSA School,Wayne,5133,Grand Valley State University,Detroit 90/90,"KG-Part,1,2,3,4,5","KG-Part,1,2,3,4,5",1,0,0,"location
+(42.3655200000001, -83.07303)"
+9991,Brewer Elementary-Middle School,18025 Brock St,Detroit,MI,48205,308,172,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.42868, -82.9637299999999)"
+9992,"Clark, J.E. Preparatory Academy",15755 Bremen St,Detroit,MI,48224,298,210,0,82,Wayne RESA,82015,Detroit Public Schools Community District,LEA School,Wayne,,,,"KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3942000000001, -82.9411699999999)"
+9994,Hamilton Academy,14223 Southampton St,Detroit,MI,48213,211,80,0,82,Wayne RESA,82733,Hamilton Academy,PSA School,Wayne,82015,Detroit Public Schools Community District,"Educational Partnerships, Inc.","KG,1,2,3,4,5,6,7,8","KG,1,2,3,4,5,6,7,8",1,1,0,"location
+(42.3986100000001, -82.9629199999999)"
+3032,Detroit Prep,2411 Iroquois,Detroit,MI,48214,,,,82,Wayne RESA,82761,Detroit Prep,PSA School,Wayne,5133,Grand Valley State University,Self-managed,"KG,1,2,3,4,5,6,7,8","KG,1",1,0,0,"location
+(42.36226, -82.99792)"
+3043,Hope of Detroit Academy - Middle/High,4444 35Th Street,Detroit,MI,48210,,,,82,Wayne RESA,82957,Hope of Detroit Academy,PSA School,Wayne,1224,Ferris State University,Leona Group,"KG,1,2,3,4,5,6,7,8,9,10,11,12","5,6,7,8,9,10,11",1,1,1,"location
+(42.3356900000001, -83.11582)"
+3045,ACE Academy - Jefferson site,13330 E. Jefferson Avenue,Detroit,MI,48215,,,,82,Wayne RESA,82998,ACE Academy (SDA),PSA School,Wayne,5017,Central Michigan University,"edtec central, LLC","9,10,11,12","9,10,11,12",0,0,1,"location
+(42.37102, -82.94886)"
+3104,Marvin L. Winans Academy Middle School,9740 Mckinney,Detroit,MI,48224,,,,82,Wayne RESA,82924,Marvin L. Winans Academy of Performing Arts,PSA School,Wayne,4884,Saginaw Valley State University,Solid Rock Management Company,"6,7,8","6,7,8",0,1,0,"location
+(42.41339, -82.94702)"
+3180,Detroit Collegiate High School,5970 Audubon Road,Detroit,MI,48224,,,,82,Wayne RESA,82764,Detroit Collegiate High School,PSA School,Wayne,5133,Grand Valley State University,Equity Education,"9,10,11,12","9,10",0,0,1,"location
+(42.40977, -82.94218)"
+3241,Capestone Academy Charter School-Mayfield,15255 Mayfield,Detroit,MI,48205,,,,82,Wayne RESA,82752,Capstone Academy Charter School (SDA),PSA School,Wayne,82015,Detroit Public Schools Community District,"edtec central, LLC","6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.4226400000001, -82.96405)"
+3244,Capstone-Wayne Co. Juvenile Detention Fac.,1326 St. Antoine,Detroit,MI,48226,,,,82,Wayne RESA,82752,Capstone Academy Charter School (SDA),PSA School,Wayne,82015,Detroit Public Schools Community District,"edtec central, LLC","6,7,8,9,10,11,12","6,7,8,9,10,11,12",0,1,1,"location
+(42.33705, -83.04065)"
